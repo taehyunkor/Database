@@ -21,7 +21,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class MainActivity extends AppCompatActivity {
-
+//깃허브 
     EditText email, pw;
     LinearLayout background;
     ProgressDialog progressDialog;
